@@ -1,9 +1,15 @@
+import java.awt.EventQueue;
+import java.util.Timer;
+import java.util.TimerTask;
 
-public class main {
+public class Main {
 
+	
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+			ChoixLangue choix = new ChoixLangue();
 
 	}
-
 }
+
