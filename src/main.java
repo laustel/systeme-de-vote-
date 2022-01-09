@@ -8,7 +8,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-			ChoixLangue choix = new ChoixLangue();
+		ChoixLangue choix = new ChoixLangue();
 
 	}
 }
